@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "shum bola",
+    "author": "gafur gulom",
+    "content": "bir bola tarixi",
+    "tags": "yaxshi kitob",
+    "comments": [
+      {
+        "comment": "bunday kitoblarni ko'p o'qib turish kerak"
+      },
+      {
+        "comment": "sizning dunyo qarashingizni yanada yuksaltiradigan narsa kitob bo'ladi"
+      }
+    ]
+  }
+]
